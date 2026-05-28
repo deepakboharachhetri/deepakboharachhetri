@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 **Python Backend Developer** | Django · DRF · FastAPI · PostgreSQL · Celery · AI Backend Systems
 
 Kathmandu, Nepal  
-GitHub: https://github.com/deepak-bohara  
-LinkedIn: https://linkedin.com/in/deepak-bohara  
-Portfolio: https://deepak-bohara.com  
-Email: your-email@gmail.com  
+GitHub: https://github.com/deepakboharachhetri  
+LinkedIn: https://linkedin.com/in/deepak-bohara-chhetri  
+Portfolio: https://portfolio-website-ten-alpha-26.vercel.app/  
+Email: deepakboharachhetri423@gmail.com  
 
 ---
 
