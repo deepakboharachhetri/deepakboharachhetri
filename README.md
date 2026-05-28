@@ -96,25 +96,4 @@ I specialize in designing **high-performance backend architectures**, asynchrono
 
 ---
 
-## 📈 Focus Areas
 
-- High-performance backend systems  
-- API architecture & scalability  
-- Multi-tenant SaaS platforms  
-- AI-powered backend services  
-- Distributed & async systems  
-
----
-
-## 🔗 Connect With Me
-
-- GitHub: https://github.com/deepakboharachhetri  
-- LinkedIn: https://linkedin.com/in/deepak-bohara-chhetri  
-- Portfolio: https://portfolio-website-ten-alpha-26.vercel.app/
-- Email: deepakboharachhetri423@gmail.com  
-
----
-
-## ⚡ Summary
-
-Backend developer building **scalable APIs, SaaS platforms, and AI-integrated systems** using Python ecosystem (Django, FastAPI, Celery, PostgreSQL).
