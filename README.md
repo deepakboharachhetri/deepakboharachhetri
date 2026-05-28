@@ -44,17 +44,13 @@ I specialize in designing **high-performance backend architectures**, asynchrono
 
 ### Databases
 - PostgreSQL, MySQL  
-- Query optimization, indexing, schema design  
 
 ### Asynchronous Systems
 - Celery, Redis  
-- Background jobs, task queues, event-driven processing  
-
+- Background jobs, task queues
 ### System Design
-- Multi-tenant SaaS architecture  
-- Microservices basics  
 - Scalable backend design patterns  
-
+- Microservices basics  
 ### DevOps & Tools
 - Docker, GitHub Actions, Linux  
 - CI/CD pipelines, deployment workflows  
